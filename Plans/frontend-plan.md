@@ -21,11 +21,8 @@ All users (institute, teacher, student) register through a single unified regist
 - Student
 - Teacher (Individual)
 - Institute
-
 > **Clarification on Roles:** A user account can hold multiple role capabilities over time. A student can upgrade to individual teacher. An individual teacher, however, cannot "become" an institute — institutes must register independently as an organization.
-
 ---
-
 ### 2.2 Institute Account
 - Registers as an organization with institute name, address, contact, and verification info.
 - Can **hire teachers** from the platform by sending invitations, or teachers can apply to join.
